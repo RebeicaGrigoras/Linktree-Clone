@@ -27,7 +27,8 @@ header {
 }
 
 .share-button svg {
-  margin-left: 12px;
+  width: 20px;
+  margin-left: 10px;
   margin-top: 10px;
   color: rgb(0, 0, 0);
 }
@@ -74,8 +75,10 @@ a {
 }
 
 .tile-share-button svg {
-  margin-left: 12px;
-  margin-top: 10px;
+ width: 20px;
+ margin-left: 10px;
+ margin-top: 10px;
+
 }
 
 .image-container {
